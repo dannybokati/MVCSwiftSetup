@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (4.8.1)
+  - AlamofireObjectMapper (5.2.0):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - IQKeyboardManagerSwift (6.2.0)
+  - ObjectMapper (3.4.2)
+  - SVProgressHUD (2.2.5)
+  - SwiftMessages (6.0.2):
+    - SwiftMessages/App (= 6.0.2)
+  - SwiftMessages/App (6.0.2)
+  - TTGSnackbar (1.7.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - AlamofireObjectMapper (~> 5.0)
+  - IQKeyboardManagerSwift
+  - ObjectMapper (~> 3.3)
+  - SVProgressHUD (from `https://github.com/SVProgressHUD/SVProgressHUD.git`)
+  - SwiftMessages
+  - TTGSnackbar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireObjectMapper
+    - IQKeyboardManagerSwift
+    - ObjectMapper
+    - SwiftMessages
+    - TTGSnackbar
+
+EXTERNAL SOURCES:
+  SVProgressHUD:
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+CHECKOUT OPTIONS:
+  SVProgressHUD:
+    :commit: e2a6aaa12321962cbe9fbecc370475f369c6566c
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+SPEC CHECKSUMS:
+  Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
+  AlamofireObjectMapper: 92b6ce2423a9d159e686f6a1d514a009bf903ddc
+  IQKeyboardManagerSwift: b07ccf9d8cafe993dcd6cb794eb4ba34611a0c4e
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftMessages: 8b3cc68dba2f1c91aac1a74c90b10287aac35371
+  TTGSnackbar: 2cf4e7b6ffbe5cddf248a73f3ee952b71bee8ea3
+
+PODFILE CHECKSUM: e545eb51f890adc5d4b05e2b6a1d86410a2963c9
+
+COCOAPODS: 1.5.2

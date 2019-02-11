@@ -1,0 +1,6 @@
+framework module Pods_Check_In_Nepal {
+  umbrella header "Pods-Check In Nepal-umbrella.h"
+
+  export *
+  module * { export * }
+}
